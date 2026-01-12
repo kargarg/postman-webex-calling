@@ -17,3 +17,6 @@ The environment variables for the collection in this folder:
 * DEVICE_MODEL -- Model name of the device for which settings needs to be retrieved.
 * DEVICE_ID -- Valid device id to fetch/update current configuration settings.
 * APPLICATION_ID -- Valid application id.
+* PERSON_ID_2 -- The person id for person feature APIs that require an id for the action.
+* SCHEDULE_NAME -- Schedule name used by person feature APIs.
+* SCHEDULE_Level -- Valid schedule level used by person feature APIs.
